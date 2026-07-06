@@ -1,4 +1,4 @@
-# 
+# Élite KeePass scripts para Mac OS | Principal KeePass scripts para PC Windows. Con inicio de sesión biométrico y sincronización multiplataforma — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
